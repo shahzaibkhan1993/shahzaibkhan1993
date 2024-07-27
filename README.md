@@ -4,9 +4,8 @@
 ### Modern Full Stack Developer | Cloud Applied Generative AI Engineer
 A passionate and innovative professional with over 5 years of experience as a Modern Full Stack Developer and Cloud Applied Generative AI Engineer. I excel at transforming ideas into reality, crafting elegant digital experiences with expertise in both front-end and back-end development. My journey spans all stages of the development cycle, creating dynamic web, mobile, and AI-based applications. Proficient in various programming languages and technologies, I am committed to continuous learning and professional growth. I thrive on optimizing IT solutions for peak efficiency and delivering top-notch results that exceed expectations. Let's connect and explore exciting possibilities together!
 
-Skills: React / Python / Java / C# / JavaScript / TypeScript / PHP / SQL / HTML / CSS
 ####💻 Programming Languages:
-[<img src="https://camo.githubusercontent.com/5368c2561cd7b2a927d069be9520aa81b527bc960c0da3bbbeb81e42f570be74/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f632d2532333030353939432e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d63266c6f676f436f6c6f723d7768697465" alt="C" data-canonical-src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&amp;logo=c&amp;logoColor=white" style="max-width: 100%;">]
+<img src="https://camo.githubusercontent.com/5368c2561cd7b2a927d069be9520aa81b527bc960c0da3bbbeb81e42f570be74/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f632d2532333030353939432e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d63266c6f676f436f6c6f723d7768697465" alt="C" data-canonical-src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&amp;logo=c&amp;logoColor=white" style="max-width: 100%;">
 
 
 

@@ -1,12 +1,12 @@
 ![Modern Full Stack Developer | Cloud Applied Generative AI Engineer](https://media.licdn.com/dms/image/D4D16AQGEFKDZHCR1jQ/profile-displaybackgroundimage-shrink_350_1400/0/1721562697403?e=1727308800&v=beta&t=HRMtEJDN4euVg0JpBoMFWuV1o-w_vkIdMGFb2W3wKmo)
 
 # Hi there 👋, my name is SHAHZEB KHAN
-## Modern Full Stack Developer | Cloud Applied Generative AI Engineer
+### Modern Full Stack Developer | Cloud Applied Generative AI Engineer
 A passionate and innovative professional with over 5 years of experience as a Modern Full Stack Developer and Cloud Applied Generative AI Engineer. I excel at transforming ideas into reality, crafting elegant digital experiences with expertise in both front-end and back-end development. My journey spans all stages of the development cycle, creating dynamic web, mobile, and AI-based applications. Proficient in various programming languages and technologies, I am committed to continuous learning and professional growth. I thrive on optimizing IT solutions for peak efficiency and delivering top-notch results that exceed expectations. Let's connect and explore exciting possibilities together!
 
 Skills: React / Python / Java / C# / JavaScript / TypeScript / PHP / SQL / HTML / CSS
 
-- 🔭 I’m currently working on this page. 
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shahzaibkhan1993)](https://github.com/anuraghazra/github-readme-stats)
 
